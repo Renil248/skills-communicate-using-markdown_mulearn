@@ -25,3 +25,9 @@ name = "John Doe"
 print(name)
 
 `````
+
+# Create task list
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
