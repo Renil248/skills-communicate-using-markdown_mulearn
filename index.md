@@ -18,3 +18,10 @@ Learned to create headers!
 ![Sentrytocat_octodex](https://github.com/Renil248/skills-communicate-using-markdown/assets/86186476/7e1ca7ac-c9e7-466c-b44e-cd96b97d3cb5)
 
 
+# Adding code blocks
+
+```` python
+name = "John Doe"
+print(name)
+
+`````
